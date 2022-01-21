@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 
 [![shadowlik](https://github-readme-stats.vercel.app/api?username=shadowlik&theme=github_dark)](https://github.com/shadowlik)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shadowlik&theme=github_dark)
+
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)

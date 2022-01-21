@@ -12,8 +12,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# Hi, I'm Henrique!
 
+Writing about technology @ https://marquesfernandes.com
 
+Software Engineer and inventor in his spare time. Passionate about technology and enthusiastic about open source projects.
 
 ## 🧰 Languages and Tools:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)

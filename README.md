@@ -16,6 +16,8 @@ Here are some ideas to get you started:
 
 Writing about technology @ https://marquesfernandes.com
 
+Generating free tools @ http://ferramentas.marquesfernandes.com
+
 Software Engineer and inventor in his spare time. Passionate about technology and enthusiastic about open source projects.
 
 ## 🧰 Languages and Tools:

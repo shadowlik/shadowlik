@@ -27,14 +27,3 @@ Software Engineer and inventor in his spare time. Passionate about technology an
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
-
-
-## :trophy: My Github Stats:
-<div>
-<a href="https://github-readme-stats.vercel.app/api?username=shadowlik&theme=github_dark">
-  <img  align="left" src="https://github-readme-stats.vercel.app/api?username=shadowlik&count_private=true&show_icons=true&theme=github_dark" />
-</a>
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=shadowlik&hide=php&theme=github_dark">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shadowlik&hide=php&theme=github_dark" />
-</a>
-</div>
